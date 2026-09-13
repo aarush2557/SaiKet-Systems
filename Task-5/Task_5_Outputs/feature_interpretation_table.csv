@@ -1,0 +1,46 @@
+Feature,Coefficient,Absolute Coefficient,Interpretation
+MonthlyCharges,-1.9934682019482795,1.9934682019482795,Negative association with model churn tendency
+InternetService_Fiber optic,1.299306364665684,1.299306364665684,Positive association with model churn tendency
+tenure,-1.2989874122686325,1.2989874122686325,Negative association with model churn tendency
+InternetService_DSL,-1.1431932211463836,1.1431932211463836,Negative association with model churn tendency
+Contract_Two year,-0.8230774325187928,0.8230774325187928,Negative association with model churn tendency
+InternetService_No,-0.5950260761843725,0.5950260761843725,Negative association with model churn tendency
+OnlineBackup_No internet service,-0.5950260761843725,0.5950260761843725,Negative association with model churn tendency
+TechSupport_No internet service,-0.5950260761843725,0.5950260761843725,Negative association with model churn tendency
+DeviceProtection_No internet service,-0.5950260761843725,0.5950260761843725,Negative association with model churn tendency
+OnlineSecurity_No internet service,-0.5950260761843725,0.5950260761843725,Negative association with model churn tendency
+StreamingTV_No internet service,-0.5950260761843725,0.5950260761843725,Negative association with model churn tendency
+StreamingMovies_No internet service,-0.5950260761843725,0.5950260761843725,Negative association with model churn tendency
+TotalCharges,0.5762680692508297,0.5762680692508297,Positive association with model churn tendency
+Contract_Month-to-month,0.5407914716819151,0.5407914716819151,Positive association with model churn tendency
+StreamingMovies_Yes,0.5175681700023901,0.5175681700023901,Positive association with model churn tendency
+StreamingTV_Yes,0.5168107390169219,0.5168107390169219,Positive association with model churn tendency
+PhoneService_No,-0.48916321467026763,0.48916321467026763,Negative association with model churn tendency
+MultipleLines_No phone service,-0.48916321467026763,0.48916321467026763,Negative association with model churn tendency
+PaperlessBilling_No,-0.4045968631880826,0.4045968631880826,Negative association with model churn tendency
+StreamingMovies_No,-0.3614550264830702,0.3614550264830702,Negative association with model churn tendency
+StreamingTV_No,-0.36069759549761743,0.36069759549761743,Negative association with model churn tendency
+Dependents_Yes,-0.3325205147070626,0.3325205147070626,Negative association with model churn tendency
+MultipleLines_Yes,0.33228081007078913,0.33228081007078913,Positive association with model churn tendency
+MultipleLines_No,-0.28203052806555734,0.28203052806555734,Negative association with model churn tendency
+PaymentMethod_Credit card (automatic),-0.24457490427649847,0.24457490427649847,Negative association with model churn tendency
+gender_Female,-0.23131949061616783,0.23131949061616783,Negative association with model churn tendency
+Partner_No,-0.23019534790875404,0.23019534790875404,Negative association with model churn tendency
+DeviceProtection_Yes,0.22018279808153948,0.22018279808153948,Positive association with model churn tendency
+PaymentMethod_Bank transfer (automatic),-0.21755338510319366,0.21755338510319366,Negative association with model churn tendency
+Partner_Yes,-0.20871758475630756,0.20871758475630756,Negative association with model churn tendency
+gender_Male,-0.2075934420488773,0.2075934420488773,Negative association with model churn tendency
+PaymentMethod_Electronic check,0.16727316261348055,0.16727316261348055,Positive association with model churn tendency
+Contract_One year,-0.1566269718282091,0.1566269718282091,Negative association with model churn tendency
+OnlineBackup_Yes,0.1520816861910894,0.1520816861910894,Positive association with model churn tendency
+PaymentMethod_Mailed check,-0.14405780589881395,0.14405780589881395,Negative association with model churn tendency
+OnlineSecurity_No,0.12764233141387538,0.12764233141387538,Positive association with model churn tendency
+Dependents_No,-0.10639241795799144,0.10639241795799144,Negative association with model churn tendency
+TechSupport_No,0.1013597447140222,0.1013597447140222,Positive association with model churn tendency
+DeviceProtection_No,-0.06406965456220433,0.06406965456220433,Negative association with model churn tendency
+TechSupport_Yes,0.05475339880531126,0.05475339880531126,Positive association with model churn tendency
+SeniorCitizen,0.05379576167916035,0.05379576167916035,Positive association with model churn tendency
+PhoneService_Yes,0.05025028200520894,0.05025028200520894,Positive association with model churn tendency
+PaperlessBilling_Yes,-0.034316069476933525,0.034316069476933525,Negative association with model churn tendency
+OnlineSecurity_Yes,0.02847081210546771,0.02847081210546771,Positive association with model churn tendency
+OnlineBackup_No,0.004031457328274468,0.004031457328274468,Positive association with model churn tendency
