@@ -1,0 +1,6 @@
+Priority,Recommendation,Data_Driven_Basis,Business_Goal
+1,Use predictive churn scoring for proactive retention outreach.,Model selected: Logistic Regression; high-risk customers are explicitly scored.,Reduce preventable churn through earlier intervention.
+2,Prioritize segments with high churn and meaningful revenue exposure.,Highest priority segment by the calculated priority score: InternetService = Fiber optic.,Allocate retention resources efficiently.
+3,Design contract-focused retention offers for high-churn contract groups.,Highest observed contract churn: Month-to-month at 42.71%.,Improve customer commitment where appropriate.
+4,Use early-lifecycle onboarding and engagement for high-churn tenure groups.,Highest observed tenure-group churn: 0-6 Months at 53.33%.,Reduce early customer drop-off.
+5,Review service and payment experience in segments with elevated observed churn.,Highest observed Internet Service churn: Fiber optic at 41.89%; highest payment-method churn: Electronic check at 45.29%.,Address possible service or payment friction.
